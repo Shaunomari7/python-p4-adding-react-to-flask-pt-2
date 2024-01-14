@@ -25,8 +25,9 @@ setuptools = "65.4.1"
 six = "1.16.0"
 sqlalchemy = "1.4.41"
 sqlalchemy-serializer = "1.4.1"
+requests = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8.13"
+python_version = "3.9.6"
